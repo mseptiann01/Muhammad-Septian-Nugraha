@@ -1,7 +1,7 @@
 <?php
 
 $bulan = array("Januari", "Febuari", "Maret", "April", "Mei");
-$angka = [1,2,3,4,5,6,7,8,9,10,11];
+$angka = [1,2,3,4,5];
 
 echo "ini isi array bulan   :   </br>";
 var_dump($bulan);
